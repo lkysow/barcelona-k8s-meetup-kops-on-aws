@@ -4,6 +4,8 @@ In this talk, we'll live-demo bringing up a new production grade Kubernetes clus
 This talk was given at the [Barcelona Kubernetes Meetup](https://www.meetup.com/Kubernetes-Barcelona/events/250572122/)
 on May 16th, 2018.
 
+Slides: https://speakerdeck.com/lkysow/production-grade-kubernetes-clusters-on-aws-with-kops
+
 # Basic Kops Demo
 
 ## Prerequisites
